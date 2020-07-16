@@ -1,0 +1,88 @@
+﻿event;year;semestre;raw_date;Ciudad;Cargo;sector
+CRISTINA ALBORNOZ RUGELES;201210;2/02/12;28/03/12;BOGOTA D.C.;PROFESOR ASOCIADO;Actividades de educación técnica, tecnóloga y/o universitaria
+ANGELA MARIA JAIMES NIÑO;201210;2/02/12;28/03/12;BOGOTA D.C.;NO DISPONIBLE;
+MANUELA MOSQUERA IRAGORRI;201210;2/02/12;28/03/12;BOGOTA D.C.;DIRECTOR DE ARQUITECTURA;Alojamiento temporal menos a 30 días
+LUIS FELIPE RAMOS RIOS;201220;3/08/12;19/10/12;BOGOTA D.C.;PROFESOR ASOCIADO;Actividades de educación técnica, tecnóloga y/o universitaria
+CELIA MARIA SAAVEDRA SALINAS;201220;3/08/12;19/10/12;BOGOTA D.C.;PROFESOR CATEDRA;Actividades de educación técnica, tecnóloga y/o universitaria
+BRANDO TAMAYO MARTINEZ;201220;3/08/12;19/10/12;BOGOTA D.C.;ARQUITECTO;
+JAIME ANGEL SALAZAR;201310;28/01/13;5/04/13;BOGOTA D.C.;PROFESOR ASISTENTE;Actividades de educación técnica, tecnóloga y/o universitaria
+ANDRES DANIEL CELY FARIAS;201310;28/01/13;5/04/13;BOGOTA D.C.;ARQUITECTO PROYECTISTA;
+MARIA CAROLINA CONCHA SERRANO;201310;28/01/13;5/04/13;BOGOTA D.C.;ARQUITECTA;
+GUILLERMO EDUARDO PINZON FERREIRA;201310;28/01/13;5/04/13;BOGOTA D.C.;DISEÑADOR DE FO;Comercio al por mayor
+DANIEL ERNESTO RONDEROS LOPEZ;201310;28/01/13;5/04/13;BOGOTA D.C.;DIRECTOR PROGRAMA DE ARQUITECTURA;Actividades de educación técnica, tecnóloga y/o universitaria
+ENRIQUE RAMIREZ BOTERO;201310;28/01/13;26/04/13;BOGOTA D.C.;GERENTE;
+EDUARDO COTE MENENDEZ;201320;29/07/13;30/09/13;BOGOTA D.C.;ARQUITECTO;Actividades deportivas y actividades recreativas y de esparcimiento
+GUSTAVO ANDRES MANZANO BOSSIO;201320;29/07/13;18/10/13;BOGOTA D.C.;ARQUITECTO;Actividades de arquitectura e ingeniería
+MANUEL FELIPE WOODCOCK CERON;201410;27/01/14;28/03/14;PASTO;PROFESOR CATEDRA;Actividades de educación técnica, tecnóloga y/o universitaria
+FERNANDO SIERRA RODRIGUEZ;201410;27/01/14;30/04/14;BOGOTA D.C.;COORDINADOR DE ARQUITECTURA;Compra, venta, alquiler y/o explotación de bienes inmuebles propios o arrendados
+LUCAS ARIZA PARRADO;201420;4/08/14;24/10/14;BOGOTA D.C.;DESEMPLEADO;Intermediación financiera, excepto el establecimiento y gestión de planes de seguros, de pensiones y cesantías
+LUIS EDUARDO CALDERON GARCIA;201420;4/08/14;24/10/14;BOGOTA D.C.;RESIDENTE DE CONSTRUCCION;Actividades relacionadas con la salud humana
+JUAN MANUEL GARCIA RICO;201420;4/08/14;24/10/14;MEDELLIN;PROFESOR CATEDRA;Actividades de educación técnica, tecnóloga y/o universitaria
+LINA MARIA MOJICA FRIEDE;201420;4/08/14;24/10/14;BOGOTA D.C.;ARQUITECTO DE LICITACIONES;Construcción, terminación, acabados de edificaciones
+CHRISTIAAN JOB NIEMAN JANSSEN;201420;4/08/14;24/10/14;BOGOTA D.C.;DISEÑADOR ACUSTICO;Construcción, terminación, acabados de edificaciones
+LAURA POSTARINI MEDINA;201420;4/08/14;28/11/14;BOGOTA D.C.;ARQUITECTO;Actividades de arquitectura e ingeniería
+ANDREA CAROLINA TORRES LEON;201510;26/01/15;27/02/15;BOGOTA D.C.;DESEMPLEADO;Intermediación financiera, excepto el establecimiento y gestión de planes de seguros, de pensiones y cesantías
+IVAN LEONARDO PIÑEROS MARTINEZ;201510;26/01/15;27/03/15;BOGOTA D.C.;NO DISPONIBLE;
+EDUARD FERNANDO ROMERO ARENAS;201510;26/01/15;27/03/15;BOGOTA D.C.;ARQUITECTO;Actividades de arquitectura e ingeniería
+MARTA D ALESSANDRO;201520;3/08/15;16/10/15;;PROFESOR;Actividades de educación técnica, tecnóloga y/o universitaria
+MOHAMMAD HOSSEIN MOHSENI;201520;3/08/15;16/10/15;CHIA;NO DISPONIBLE;
+HERNAN ALBERTO ORTIZ RAMIREZ;201520;3/08/15;16/10/15;BOGOTA D.C.;NO DISPONIBLE;
+ANDRES NORBERTO SANCHEZ CAICEDO;201520;3/08/15;16/10/15;BOGOTA D.C.;ARQUITECTO COLABORADOR;Actividades de arquitectura e ingeniería
+GLORIA PATRICIA SERNA MEZA;201520;3/08/15;16/10/15;BOGOTA D.C.;ARQUITECTO CONTRATISTA;Compra, venta, alquiler y/o explotación de bienes inmuebles propios o arrendados
+ANDREA ALESSANDRO GAMBERONI SAULLE;201520;3/08/15;30/11/15;CARACAS;CONSULTOR;Compra, venta, alquiler y/o explotación de bienes inmuebles propios o arrendados
+GERMAN ANDRES GUTIERREZ PINZON;201520;3/08/15;30/11/15;BOGOTA D.C.;NO DISPONIBLE;
+ALEJANDRO PIÑOL AREVALO;201520;3/08/15;30/11/15;BOGOTA D.C.;CONSULTOR;Informática y actividades conexas, consultorías
+JULIAN ANTONIO SOSSA DELGADO;201520;3/08/15;30/11/15;BOGOTA D.C.;COORDINADOR DE DISEÑOS;Actividades deportivas y actividades recreativas y de esparcimiento
+STEFANO ALFREDO GUSTAVO ANZELLINI FAJARDO;201610;24/01/16;29/02/16;BOGOTA D.C.;DOCENTE INVESTIGADOR;Actividades de educación técnica, tecnóloga y/o universitaria
+ALFONSO ARANGO GONZALEZ;201610;24/01/16;17/03/16;BOGOTA D.C.;JEFE DE UNIDAD DEPARTAMENTAL DE DIAGNOSTICO;Administración del estado y aplicación de la política económica y social de la comunidad
+FERNANDO DE LA CARRERA RUAN;201610;24/01/16;17/03/16;BOGOTA D.C.;COORDINADORA DE DISEÑO;Administración del estado y aplicación de la política económica y social de la comunidad
+MANUEL SANCHEZ GARCIA;201610;24/01/16;17/03/16;BOGOTA D.C.;DESEMPLEADO;Intermediación financiera, excepto el establecimiento y gestión de planes de seguros, de pensiones y cesantías
+HECTOR JULIO SILVA LOPEZ;201610;24/01/16;17/03/16;BOGOTA D.C.;ARQUITECTO DOCENTE;Actividades de educación técnica, tecnóloga y/o universitaria
+CHRISTIAN CAMILO CASALLAS NOPE;201620;1/08/16;20/10/16;BOGOTA D.C.;CO FOUNDER ARCHITECT;Actividades de arquitectura e ingeniería
+YESELI ESMERALDA IBARRA TRIANA;201620;1/08/16;20/10/16;BOGOTA D.C.;ARQUITECTO;Actividades de educación deportiva y/o cultural
+LAURA VANESSA LOPEZ OSORIO;201620;1/08/16;20/10/16;MEDELLIN;ARQUITECTA;Actividades de educación técnica, tecnóloga y/o universitaria
+MARIA CAMILA MOYA CARDENAS;201620;1/08/16;20/10/16;BOGOTA D.C.;INDEPENDIENTE;
+EDGAR DANIEL BARBOSA GUTIERREZ;201710;24/01/17;30/03/17;BOGOTA D.C.;ASESOR;Generación, transmisión, distribución y comercialización de energía eléctrica
+KAREM FABIOLA BOHORQUEZ DORANTE;201710;24/01/17;30/03/17;BOGOTA D.C.;NO DISPONIBLE;
+DAVID FERNANDO CABRERA RUEDA;201710;24/01/17;30/03/17;BOGOTA D.C.;FUNDADORA;Actividades de arquitectura e ingeniería
+JHOAN GUILLERMO CAICEDO VARON;201710;24/01/17;30/03/17;BOGOTA D.C.;COORDINADOR DE PROYECTOS;Actividades de arquitectura e ingeniería
+MARIA PAULA CERQUERA LOPEZ;201710;24/01/17;30/03/17;BOGOTA D.C.;ARQUITECTA;Administración del estado y aplicación de la política económica y social de la comunidad
+SILVIA SOFIA CORTES BERMUDEZ;201710;24/01/17;30/03/17;BOGOTA D.C.;ARQUITECTO;Intermediación financiera, excepto el establecimiento y gestión de planes de seguros, de pensiones y cesantías
+DAVID FELIPE RODRIGUEZ VARGAS;201710;24/01/17;30/03/17;BOGOTA D.C.;ASESOR;Administración del estado y aplicación de la política económica y social de la comunidad
+NATALIA ALMONACID AMAYA;201710;24/01/17;31/05/17;BOGOTA D.C.;GERENTE;Comercio al por mayor
+FABIO ENRIQUE FLOREZ FLOREZ;201720;31/07/17;29/09/17;BOGOTA D.C.;NO DISPONIBLE;Actividades administrativas y de apoyo de oficina y otras actividades de apoyo a las empresas
+JESSICA LORENA PINZON MUÑOZ;201720;31/07/17;29/09/17;BOGOTA D.C.;PROFESOR CATEDRA;Actividades de educación técnica, tecnóloga y/o universitaria
+MARIO ANDRES ARBOLEDA ARCILA;201720;31/07/17;19/10/17;BOGOTA D.C.;NO DISPONIBLE;
+BIZHAN GHANDEHARIAN VASQUEZ;201720;31/07/17;19/10/17;BOGOTA D.C.;PROFESOR ASISTENTE;Actividades de educación técnica, tecnóloga y/o universitaria
+HECTOR DANILO GUERRERO GARZON;201720;31/07/17;19/10/17;BOGOTA D.C.;ASISTENTE GRADUADO DOCTORAL INVESTIGACIO;Actividades de educación técnica, tecnóloga y/o universitaria
+JULIAN ANDRES MARIN OSPINA;201720;31/07/17;19/10/17;BOGOTA D.C.;GESTOR PROYECTOS ACADEMICOS T;Actividades de educación técnica, tecnóloga y/o universitaria
+RICARDO TEJADA BERMUDEZ;201720;31/07/17;19/10/17;BOGOTA D.C.;AFILIACIONES;
+DAVID LEONARDO CRUZ ZUÑIGA;201720;31/07/17;30/11/17;BOGOTA D.C.;GERENTE TAD;Construcción, terminación, acabados de edificaciones
+JUAN JOSE FERRO HOYOS ;201810;29/01/18;28/02/18;BOGOTA D.C.;JEFE DE PLANEACION Y GESTION DEL CAMPUS;Actividades de educación técnica, tecnóloga y/o universitaria
+RICARDO ANDRES VALENCIA ROBLES;201810;29/01/18;28/02/18;NO DISPONIBLE;DIRECTOR CREATIVO;Actividades de arquitectura e ingeniería
+FERNANDO ALONSO GOMEZ ZULUAGA;201810;29/01/18;6/04/18;BOGOTA D.C.;PROFESIONAL;Elaboración/fabricación/confección/Transformación
+JORGE ARTURO GONZALEZ CASTRO;201810;29/01/18;6/04/18;BOGOTA D.C.;RESEARCH ASSISTANT;Actividades de educación técnica, tecnóloga y/o universitaria
+SILVIA KARINA GONZALEZ SALAZAR;201810;29/01/18;6/04/18;HUIXQUILUCAN;NO DISPONIBLE;Intermediación financiera, excepto el establecimiento y gestión de planes de seguros, de pensiones y cesantías
+JUAN PABLO GÜIZA CHAVES;201810;29/01/18;6/04/18;NO DISPONIBLE;PROFESOR CATEDRA;Actividades de educación técnica, tecnóloga y/o universitaria
+ANA MARIA LINARES ALVAREZ;201810;29/01/18;6/04/18;BOGOTA D.C.;PROFESIONAL ESPECIALIZADO GRADO 22;Prestación de servicios a la comunidad en general
+CATALINA ALEXANDRA VILLABONA TRIANA;201810;29/01/18;6/04/18;BOGOTA D.C.;PROFESOR CATEDRA;Actividades de educación técnica, tecnóloga y/o universitaria
+WILLIAM ANDRES SEPULVEDA MOLINA;201810;29/01/18;29/06/18;BOGOTA D.C.;ANALISTA DE PROYECTOS;Actividades de arquitectura e ingeniería
+JAIRO ENRIQUE GALINDO NARANJO;201820;31/07/18;12/10/18;BOGOTA D.C.;PROFESOR ASISTENTE;Actividades de educación técnica, tecnóloga y/o universitaria
+ANTONIO KOATXICARI LOPEZ CARDONA;201820;31/07/18;12/10/18;MEDELLIN;NO DISPONIBLE;
+JEFFERSON ESTEBAN QUIÑONES BUSTOS;201820;31/07/18;12/10/18;BOGOTA D.C.;VICEPRESIDENTE;Construcción, terminación, acabados de edificaciones
+ANDRES HERNAN VARON LEON;201820;31/07/18;12/10/18;VILLAVICENCIO;INDEPENDIENTE;
+RAIZA LORENA BARRERA VEGA;201820;31/07/18;30/11/18;BOGOTA D.C.;PROFESOR CATEDRA;Actividades de educación técnica, tecnóloga y/o universitaria
+ALVARO ANDRES GOMEZ OTALORA;201820;31/07/18;30/11/18;BOGOTA D.C.;CONSULTOR;Informática y actividades conexas, consultorías
+DAVID CADAVID CASTAÑEDA;201910;21/01/19;29/03/19;MEDELLIN;ARQUITECTO;
+JUAN DAVID CUADROS ORDOÑEZ;201910;21/01/19;29/03/19;BOGOTA D.C.;CONTRATISTA;Prestación de servicios a la comunidad en general
+ALEJANDRO HENRIQUEZ LUQUE;201910;21/01/19;29/03/19;BOGOTA D.C.;PROFESOR CATEDRA;Actividades de educación técnica, tecnóloga y/o universitaria
+ALEJANDRA POSADA ACOSTA;201910;21/01/19;29/03/19;BOGOTA D.C.;PROFESOR CATEDRA;Actividades de educación técnica, tecnóloga y/o universitaria
+DIEGO MAURICIO RUBIO ROMERO;201910;21/01/19;29/03/19;BOGOTA D.C.;PROFESIONAL UNIVERSITARIO;Administración del estado y aplicación de la política económica y social de la comunidad
+ALEJANDRA HERRERA SUAREZ;201910;21/01/19;31/05/19;BOGOTA D.C.;ARQUITECTO SUPERVISOR;Actividades de educación técnica, tecnóloga y/o universitaria
+MELISSA ALEXANDRA LATTKE RODRIGUEZ;201910;21/01/19;29/03/19;NO DISPONIBLE;SUPERVISOR DE CONTRATOS;Construcción, terminación, acabados de edificaciones
+CAROLINA GUARDIOLA LINCE;201910;21/01/19;29/03/19;BOGOTA D.C.;DIRECTOR DEPARTAMENTO DE ARQUITECTURA;Compra, venta, alquiler y/o explotación de bienes inmuebles propios o arrendados
+JOSELYN EDITH GERSHBERG RUBINSTEIN;201910;21/01/19;29/03/19;CABRERA;PROFESIONAL UNIVERSITARIO;Administración del estado y aplicación de la política económica y social de la comunidad
+ERADA RROKAJ;201910;21/01/19;31/05/19;BOGOTA D.C.;NO DISPONIBLE;
+JOSE JULIAN BONILLA VELANDIA;201920;5/08/19;29/11/19;PAIPA;DOCENTE MEDIO TIEMPO;Actividades de educación técnica, tecnóloga y/o universitaria
+MARIA MONICA SANCHEZ MACIAS;201920;5/08/19;29/11/19;TUMACO;COORDINADOR GENERACION DE CONTENIDO;Actividades de educación técnica, tecnóloga y/o universitaria
+ANDREA JULIETH PAVA GOMEZ;201920;5/08/19;18/10/19;BOGOTA D.C.;ARQUITECTO;Construcción, terminación, acabados de edificaciones
